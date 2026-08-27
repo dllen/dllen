@@ -10,9 +10,9 @@ jobs:
       - name: Update post list
         run: |
           sleep 1m
-          curl -LO https://github.com/ouuan/ouuan.moe/raw/dist/feed.json
+          curl -L -o atom.xml https://scp.net.cn/blog/atom.xml
           node src/listPosts.js
-          rm feed.json
+          rm atom.xml
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
