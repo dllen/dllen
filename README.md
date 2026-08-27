@@ -65,9 +65,7 @@ GPG      : 3F32570FFBF4B9A6
 ## 📊 GitHub Stats
 
 <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true#gh-light-mode-only" alt="GitHub stats" />
-<img align="left" width="45%" src="https://github-stats-extended.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true#gh-dark-mode-only" alt="GitHub stats" />
 <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true#gh-light-mode-only" alt="Top languages" />
-<img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" alt="Top languages" />
 <br clear="both" />
 
 ## 📝 [Latest Blog Posts](https://scp.net.cn/blog/?utm_source=GitHubProfile)
