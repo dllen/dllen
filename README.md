@@ -62,155 +62,39 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      <a href="https://github.com/ishandutta2007">
+        <img src="https://avatars2.githubusercontent.com/u/2527354" width="100px;" alt="ishandutta2007"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="https://github.com/ishandutta2007">Ishan Dutta</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      <a href="https://github.com/skyvow">
+        <img src="https://avatars2.githubusercontent.com/u/14972920" width="100px;" alt="skyvow"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府 [0x3F]</a>
+      <a href="https://github.com/skyvow">skyvow</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="https://github.com/Leooeloel">
+        <img src="https://avatars2.githubusercontent.com/u/29906716" width="100px;" alt="Leooeloel"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://github.com/Leooeloel">Leo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      <a href="https://github.com/MatrixA">
+        <img src="https://avatars2.githubusercontent.com/u/33066250" width="100px;" alt="MatrixA"/>
       </a>
       <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
+      <a href="https://github.com/MatrixA">MatrixA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zer0yu">
-        <img src="https://avatars2.githubusercontent.com/u/16551733" width="100px;" alt="zer0yu"/>
+      <a href="https://github.com/YangXiaoguang">
+        <img src="https://avatars2.githubusercontent.com/u/1249084" width="100px;" alt="YangXiaoguang"/>
       </a>
       <br />
-      <a href="https://github.com/zer0yu">z3r0yu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
-      </a>
-      <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SunsetMkt">
-        <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
-      </a>
-      <br />
-      <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
-      </a>
-      <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="clansty"/>
-      </a>
-      <br />
-      <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zhuozhiyongde">
-        <img src="https://avatars2.githubusercontent.com/u/36695271" width="100px;" alt="zhuozhiyongde"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuozhiyongde">Arthals</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/lzwjava">Zhiwei Li</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/taoso">
-        <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
-      </a>
-      <br />
-      <a href="https://github.com/taoso">taoso</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
-      </a>
-      <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lz233">
-        <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
-      </a>
-      <br />
-      <a href="https://github.com/lz233">lz差不多是条咸鱼了</a>
+      <a href="https://github.com/YangXiaoguang">Yang Xiaoguang</a>
     </td>
   </tr>
 </table>
