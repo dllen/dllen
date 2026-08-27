@@ -65,13 +65,13 @@ GPG      : 3F32570FFBF4B9A6
 ## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true">
+  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true" alt="Top languages" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true" alt="Top languages" width="100%" />
 </picture>
 
 ## 📝 Latest Blog Posts
