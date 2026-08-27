@@ -27,24 +27,23 @@ Wish you a good-looking profile README!
 
 -->
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
+My name is Roc. I'm based in 北京 and write at [scp.net.cn](https://www.scp.net.cn).
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dllen&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true">
 </picture>
 
--   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :microscope: Cyber security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
+-   :pencil2: Java / JavaScript / Python / Rust / C / C++
+-   :package: 北京 / [scp.net.cn](https://www.scp.net.cn) / 湖上一回首，青山卷白云
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/dllen/dllen/discussions/new/choose)!
 -   :mag: [CVEs discovered by me](CVE.md)
 -   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :key: GPG key: [`3F32570FFBF4B9A6`](https://github.com/dllen.gpg)
 
 ---
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+### :pencil: [Latest blog posts](https://scp.net.cn/blog/?utm_source=GitHubProfile)
 
 <!--START_SECTION:blog-posts-->
 -   2026-08-25 [从「独木桥」到「分厂」：一文读懂 NUMA 非一致性内存访问](https://scp.net.cn/blog/non-uniform-memory-access-numa/?utm_source=GitHubProfile)
