@@ -64,22 +64,11 @@ GPG      : 3F32570FFBF4B9A6
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true">
-        <img src="https://github-stats-extended.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true" alt="Top languages" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<img align="left" width="49%" src="https://github-stats-extended.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true#gh-light-mode-only" alt="GitHub stats" />
+<img align="left" width="49%" src="https://github-stats-extended.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true#gh-dark-mode-only" alt="GitHub stats" />
+<img align="right" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true#gh-light-mode-only" alt="Top languages" />
+<img align="right" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" alt="Top languages" />
+<br clear="both" />
 
 ## 📝 [Latest Blog Posts](https://scp.net.cn/blog/?utm_source=GitHubProfile)
 
