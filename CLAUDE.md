@@ -9,7 +9,6 @@ This repository is a GitHub profile README (`dllen/dllen`) that is updated by lo
 ## Repository structure
 
 - `README.md` — Profile README. Do not manually edit content between `<!--START_SECTION:...-->` and `<!--END_SECTION:...-->` markers; it is overwritten by scripts.
-- `src/getTopFollowers.py` — Queries the GitHub GraphQL API and regenerates the top-followers table in `README.md`.
 - `src/updateBlogPosts.py` — Parses `atom.xml` and regenerates the latest blog posts list in `README.md`.
 - `src/updateAwesomeStars.py` — Fetches starred repositories and regenerates `AWESOME-STARS.md`.
 - `src/updateStarFork.py` — Reads `.env` `GH_TOKEN`, fetches star/fork counts, and updates the repository description.
@@ -27,14 +26,6 @@ All updates are driven by scripts in `src/`. Install the single dependency once:
 ```bash
 pip install requests
 ```
-
-### Update top followers
-
-```bash
-python src/getTopFollowers.py <github-handle> <token> README.md
-```
-
-The token must have access to the GitHub GraphQL API.
 
 ### Update blog posts
 
@@ -70,7 +61,7 @@ The script reads `WAKAPI_BASE_URL` and `WAKAPI_API_KEY` from `.env`.
 
 Scripts read from `.env`:
 
-- `GH_TOKEN` — GitHub token. Used by `getTopFollowers.py`, `updateAwesomeStars.py`, and `updateStarFork.py`. Needs `public_repo` scope for `updateStarFork.py`.
+- `GH_TOKEN` — GitHub token. Used by `updateAwesomeStars.py` and `updateStarFork.py`. Needs `public_repo` scope for `updateStarFork.py`.
 - `WAKAPI_BASE_URL` and `WAKAPI_API_KEY` — Used by `updateWakapi.py` to fetch coding stats.
 
 ## Local secrets
