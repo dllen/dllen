@@ -64,16 +64,15 @@ GPG      : 3F32570FFBF4B9A6
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true" alt="Top languages" width="100%" />
+</picture>
 
 ## 📝 Latest Blog Posts
 
