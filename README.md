@@ -64,19 +64,24 @@ GPG      : 3F32570FFBF4B9A6
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true">
-  <img src="https://github-stats-extended.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" width="100%" />
-</picture>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dllen&theme=dark&show_icons=true&rank_icon=github&hide_border=true">
+        <img src="https://github-stats-extended.vercel.app/api?username=dllen&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true" alt="Top languages" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=dark&hide_border=true">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dllen&layout=compact&hide_border=true" alt="Top languages" width="100%" />
-</picture>
-
-## 📝 Latest Blog Posts
-
-### :pencil: [Latest blog posts](https://scp.net.cn/blog/?utm_source=GitHubProfile)
+## 📝 [Latest Blog Posts](https://scp.net.cn/blog/?utm_source=GitHubProfile)
 
 <!--START_SECTION:blog-posts-->
 -   2026-08-25 [从「独木桥」到「分厂」：一文读懂 NUMA 非一致性内存访问](https://scp.net.cn/blog/non-uniform-memory-access-numa/?utm_source=GitHubProfile)
@@ -94,9 +99,7 @@ GPG      : 3F32570FFBF4B9A6
 
 - [:star: Projects starred by me](AWESOME-STARS.md)
 
-## 📈 Coding Activity
-
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+## 📈 [Coding Activity](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 
