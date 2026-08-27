@@ -27,21 +27,55 @@ Wish you a good-looking profile README!
 
 -->
 
-My name is Roc. I'm based in 北京 and write at [scp.net.cn](https://www.scp.net.cn).
+<div align="center">
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dllen&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true">
-</picture>
+# Roc / dllen
 
--   :pencil2: Java / JavaScript / Python / Rust / C / C++
--   :package: 北京 / [scp.net.cn](https://www.scp.net.cn) / 湖上一回首，青山卷白云
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/dllen/dllen/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`3F32570FFBF4B9A6`](https://github.com/dllen.gpg)
+**Senior Developer · Beijing · [scp.net.cn](https://www.scp.net.cn)**
 
----
+[![Blog](https://img.shields.io/badge/Blog-scp.net.cn-1e3a5f?style=for-the-badge&logo=ghost)](https://www.scp.net.cn)
+[![GPG](https://img.shields.io/badge/GPG-3F32570FFBF4B9A6-f59e0b?style=for-the-badge&logo=gnuprivacyguard)](https://github.com/dllen.gpg)
+[![Discussions](https://img.shields.io/badge/Ask%20me%20anything-Discussions-1e3a5f?style=for-the-badge&logo=github)](https://github.com/dllen/dllen/discussions/new/choose)
+
+> 湖上一回首，青山卷白云
+
+</div>
+
+## 👋 About
+
+```text
+roc@dllen
+─────────────────────────────────────
+Name     : Roc
+Location : Beijing
+Blog     : https://www.scp.net.cn
+Motto    : 湖上一回首，青山卷白云
+GPG      : 3F32570FFBF4B9A6
+```
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllen&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+## 📝 Latest Blog Posts
 
 ### :pencil: [Latest blog posts](https://scp.net.cn/blog/?utm_source=GitHubProfile)
 
@@ -53,8 +87,15 @@ My name is Roc. I'm based in 北京 and write at [scp.net.cn](https://www.scp.ne
 -   2026-08-11 [当代码不再值钱：从 Linus 到 LLM，一个行业信条的两次反转](https://scp.net.cn/blog/code-is-abundant-judgment-is-scarce/?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
+## 🛡 Security Research
 
----
+- [:mag: CVEs discovered by me](CVE.md)
+
+## ⭐ Projects Starred by Me
+
+- [:star: Projects starred by me](AWESOME-STARS.md)
+
+## 📈 Coding Activity
 
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
